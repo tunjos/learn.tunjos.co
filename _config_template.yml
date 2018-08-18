@@ -1,0 +1,59 @@
+title: TITLE
+description: DESCRIPTION
+author: AUTHOR
+logo: LOGO
+github: GITHUB
+about: ABOUT
+disqus_shortname: SHORTNAME 
+google_analytics: ANALYTICS
+urls:
+    - text: Home
+      url: /
+      icon: fa-home
+      layout: post
+    - text: About
+      url: /about/
+      icon: fa-comments
+    - text: Projects
+      url: /projects/
+      icon: fa-desktop
+    - text: Resume
+      url: '#'
+      icon: fa-graduation-cap
+    - text: Github
+      url: https://
+      icon: fa-github
+    - text: XML Feed
+      url: /feed.xml
+      icon: fa-feed
+      target: _blank
+      
+social:
+    - icon: fa-facebook
+      link: '#'
+    - icon: fa-skype
+      link: '#'
+    - icon: fa-twitter
+      link: '#'
+    - icon: fa-linkedin
+      link: '#'
+    - icon: fa-stack-exchange
+      link: '#'
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+url: "http://website.com/"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist

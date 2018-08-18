@@ -1,0 +1,3 @@
+- [*Pro Git 2nd Edition* by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
+
+- [*Git Pocket Guide: A Working Introduction* by Richard E. Silverman](http://shop.oreilly.com/product/0636920024972.do)

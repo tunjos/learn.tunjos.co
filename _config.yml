@@ -1,0 +1,75 @@
+title: tunjos learn
+description: Tunjos Learn
+author: Tunji Olu-Taiwo
+logo: http://tunjos.co/static/img/headshot.jpg
+github: https://github.com/tunjos
+about: Happiness Engineer..Critical Thinker.
+disqus_shortname:
+google_analytics:
+plain_url: tunjos.co
+plain_url2: tunjos.com
+urls:
+    - text: Home
+      url: 'https://tunjos.co'
+      icon: fa-home
+      layout: post
+    - text: About
+      url: 'https://tunjos.co/about'
+      icon: fa-info
+    - text: Learn
+      url: /
+      icon: fa-book
+    - text: Clean Architecture
+      url: /clean-architecture/
+      icon: fa-circle
+    - text: GIT
+      url: /git
+      icon: fa-git
+    - text: Android
+      url: /android/
+      icon: fa-android
+    - text: Java
+      url: /java/
+      icon: fa-coffee
+    - text: Kotlin
+      url: /kotlin/
+      icon: fa-question
+    - text: Crypto
+      url: /crypto/
+      icon: fa-lock
+    - text: Github
+      url: https://github.com/tunjos
+      icon: fa-github
+      target: _blank
+
+social:
+    - icon: fa-twitter
+      link: 'http://twitter.com/tunjos'
+    - icon: fa-google-plus
+      link: '#'
+    - icon: fa-github
+      link: 'http://github.com/tunjos'
+    - icon: fa-linkedin
+      link: 'http://www.linkedin.com/in/tunjos'
+    - icon: fa-stack-exchange
+      link: '#'
+
+share:
+  twitter_username: tunjos
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+#url: "http://localhost:4000"
+url: "http://tunjos.co"
+baseurl: ""
+paginate: 5
+per_page: 5
+paginate_path: "/page:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+exclude: [_drafts/help]

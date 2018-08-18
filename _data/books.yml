@@ -1,0 +1,41 @@
+# Place book information here. Available element are:
+# -
+#   name: Some book's name //--> this is important!
+#   author: Some Nice Name //--> important
+#   avatar: /book-pic.jpg //--> important, you can define a default avatar
+#   url: Link to book
+#   pages: 100
+#   summary: Nice summary about book //--> important
+#   category: Book Category [programming, happiness]
+-
+  name: The Power of Less. The Fine Art of Limiting Yourself to the Essential...in Business and in Life.
+  author: Leo Babauta
+  avatar: /books_bookname.jpg
+  url: http://www.booksaleurl.com
+  pages: 100
+  summary: Good book about being good
+  category:
+-
+  name: The Smarter, Faster, Easier Way to Build a Successful Web Application.
+  author: 37signals(Jason Fried, Matthew Linderman and David Heinemeier Hansson)
+  avatar: /book-pic.jpg
+  url: http://www.amazon_url.com
+  pages: 100
+  summary: Good book about being good
+  category:
+-
+  name: The Lean Startup. How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses.
+  author: Eric Ries
+  avatar: /book-pic.jpg
+  url: http://www.amazon_url.com
+  pages: 100
+  summary: Good book about being good
+  category:
+-
+  name: Web API Design. Crafting Interfaces that Developers Love.
+  author: Brian Mulloy(apigee)
+  avatar: /book-pic.jpg
+  url: http://www.amazon_url.com
+  pages: 100
+  summary: Good book about being good
+  category: 

@@ -1,0 +1,122 @@
+```
+git help everyday		[Everyday Git in twenty commands or so]
+git help -g			[Show helpful guides that come with Git]
+
+git init			[Initialize a git repository]
+git clone <url>			[Clone a git repository from the given <url> to the current directory]
+git clone <url> <dir>		[Clone a git repository from the given <url> to directory <dir>]
+
+git config --list		[Show local repository configuration list]
+git config --local --list	[Show local repository configuration list]
+git config --global --list	[Show user configuration list]
+git config --system --list	[Show system configuration list]
+git config [--local | --global | --system] <config_name> <value> [Set the given <config_name> to <value>]
+
+git config user.name <name>	[Configure local repository commiter's name]
+git config user.email <email>	[Configure local repository commiter's email]
+git config core.autocrlf input	[Auto convert between Unix/Windows EOL on commit and checkout]
+git config core.editor <editor> [Change the text editor for writing commit messages to <editor>]
+git config <config_name>	[Show the value for a given <config_name>]
+git config --get <config_name>	[Show the value for a given <config_name>]
+git config --unset <config_name>[Unset the value for a given <config_name>]
+-----------------------------------------------------------------------------------------------------
+git status 			[Show the status of the working directory i.e files that may have changed]
+git status -s 			[Short status output]
+git status -sb 			[Short status output and branch/tracking info]
+git status -uno 		[Check status of Remote branch being tracked]
+
+git remote			[Show the names of the remote repositories you've set up]
+git remote -v			[Show the names and URLs of the remote repositories push/fetch]
+git remote add <remote_name> <url> [Add new remote repository from the given <url> with the given <remote_name>]
+git remote rm <remote_name>	[Remove a remote repository]
+
+git add <file_name>		[Add <file_name> to the index for the next commit]
+git add <dir>			[Add all files in the given <dir> to the index for the next commit]
+git add -A			[Stage all files (new, modified, and deleted)]
+git add .			[Stage new and modified files (excluding deleted)]
+git add -u			[Stage modified and deleted files (excluding new)]
+
+git reset -- <file_name>	[Remove <file_name> from the index only]
+git checkout -- <file_name>	[Discard file modification, restore file from index]
+
+git rm <filename>		[Remove a file and untrack it(delete in working directory and index)]
+git rm <filename> --cached	[Untrack a file only. It will still exist. Usually you will add this file to .gitignore after rm]
+git clean -i			[Interactively remove untracked files from a repository]
+
+git gc				[Remove unecessary files and references, optimize repository]
+git gc --auto			[Check and run gc if required, otherwise exit]
+git fsck			[Check the integrity of objects in the repository]
+-----------------------------------------------------------------------------------------------------
+git commit -m ["<message>"]	[Apply changes in the index with the given commit <message>]
+git commit --amend		[Combine staged changes with the previous commit]
+git commit --amend --reset-author [Amend commit author and author date to the commiter]
+git commit --amend --author="<author_name> <<email>>" [Amend commit author with given <author_name> and <email>, author date unchanged]
+git commit --amend --date="2000-12-12T20:20:20" [Amend commit author date, use ISO 8601 format for convenience]
+
+git stash			[Takes uncommitted work (modified tracked files and staged changes) and saves it, reverts to HEAD]
+git stash --include-untracked	[Takes uncommitted work (modified tracked files and untracked files and staged changes) and saves it, reverts to HEAD]
+git stash --keep-index		[Takes uncommitted work (modified tracked files) and saves it, reverts to HEAD, staged changes untouched]
+git stash save			[Takes uncommitted work (modified tracked files and staged changes) and saves it, reverts to HEAD]
+git stash save "<message>"	[Stash changes with a custom <message>]
+git stash list			[Show list of stashes, stash@{0} is the last stash]
+git stash push			[Takes uncommitted work (modified tracked files and staged changes) and saves it, reverts to HEAD]
+git stash pop			[Pop last stash and apply it to the working directory]
+git stash apply			[Reapply the latest stashed contents]
+git stash apply <stash_id>	[Reapply a specific stash with <stash_id>. (eg stash@{2})]
+git stash drop			[Drop last stash stash, saved states will be discarded]
+git stash drop <stash_id>	[Drop a specific stash with <stash_id> (eg stash@{2})]
+git stash clear			[Remove all stashes, saved states will be discarded]
+
+git tag				[List available tags]
+git tag <tag_name>		[Create a new tag named <tag_name>]
+git tag -d			[Delete a tag named <tag_name>]
+-----------------------------------------------------------------------------------------------------
+git fetch			[Update remote tracking branches, without merging]
+git fetch <remote_name>		[Update remote tracking branches from <remote_name>, without merging]
+
+git pull			[Get the latest changes from origin and merge]
+git pull <remote_name> <branch_name>		[Retrieve objects from <remote> <branch_name> and merge. Use with caution]
+
+git branch			[Show all branches (local)]
+git branch -a			[Show all branches (local and remote)]
+git branch -r			[Show all remote tracking branches (remote)]
+git branch <branch_name>	[Create a branch <branch_name> from HEAD]
+git branch -d <branch_name>	[Delete a branch <branch_name>]
+
+git merge <branch_name>		[Merge changes from <branch_name> to the currently checked out branch]
+
+git checkout -b <branch_name>	[Create a branch <branch_name> from HEAD and switch to it]
+git checkout <branch_name>	[Switch to an already created branch <branch_name>]
+git checkout -b <branch_name> <remote_name>/<remote_branch_name>	[Get a <remote_branch_name> from <remote_name> into a local <branch_name> (naming the branch and switching to it)]
+git checkout --track <remote_name>/<branch_name>	[Checkout and track a <remote_name> <branch_name>]
+git checkout -t <remote/branch>				[Checkout and track a <remote_name> <branch_name>]
+
+git push <remote_name> <branch_name>		[Push a branch <branch_name> up to the <remote_name>]
+git push -u <remote_name> <branch_name> [Publish a local <branch_name> to the given <remote_name> and sets up tracking]
+git push -delete <remote_name> <branch_name>	[Delete a remote branch <branch_name> from <remote_name>]
+git push <remote_name> <tag_name>		[Push single local tag <tag_name> to <remote_name>]
+git push --tags <remote_name>			[Push all local tags to <remote_name>]
+git push -delete <remote_name> <tag_name>	[Delete a tag from <remote_name>]
+
+git log				[Show commit logs]
+git log -<no>			[Show last <no> of commit logs]
+git log -n <no>			[Show last <no> of commit logs]
+git log --oneline -<no> --author= "<author_name>" --before "Fri Mar 26 2009" [Show last <no> of commits by <author_name> before a given date]
+git log $(git log --pretty=format:%H|tail -1) [Show first commit in a repository]
+
+git shortlog			[Show short commit logs]
+git shortlog -<no>		[Show last <no> of short commit logs]
+git shortlog -s			[Show shorter even shorter commit logs]
+
+git diff			[show diff between index and working directory]
+git diff <branch_name>		[show diff between <branch_name> and working directory]
+git diff <branch_1> <branch_2>	[show diff between <branch_1> and <branch_2>]
+
+git rebase <branch_name>	[Take all the changes in one branch and replay them on another. Usually used in a feature branch. Rebase the master to the feature branch so you are testing your feature on the latest main code base. Then merge to the master]
+git rebase origin/master	[Rebase to origin/master]
+git add . 			[Stage changes when rebasing with a conflict]
+git rebase --continue 		[Continue a rebase after fixing a conflict and staging]
+git rebase -i HEAD~<no> 	[Start interactive rebase to squash last <no> of commits]
+
+git cherry-pick <commit id>	[Merge just one specific commit from another branch to your current branch]
+```

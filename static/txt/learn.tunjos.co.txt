@@ -1,0 +1,12 @@
+- android
+- clean-architecture
+- crypto
+- git
+  - git definitions	[git_defs]
+  - git commands	[git]
+  - git aliases		[git_aliases]
+- java
+  - java
+  - java 8
+- kotlin
+  - kotlin

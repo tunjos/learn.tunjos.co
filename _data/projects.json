@@ -1,0 +1,652 @@
+[
+	{
+		"name": "Future Project",
+		"cover_thumbnail": "placeholder.jpg",
+		"cover_image": "placeholder.jpg",
+		"cover_title": "Future Project",
+		"fancybox_class": "future-project",
+		"images": [
+				{
+					"image": "placeholder.jpg",
+					"thumbnail": "placeholder.jpg",
+					"title": "Title"
+				},
+				{
+					"image": "placeholder.jpg",
+					"thumbnail": "placeholder.jpg",
+					"title": "Title"
+				}
+			  ],
+		"url": "#",
+		"date": "SOON",
+		"tags": ["AnyStack", "ComingSoon"]
+	},
+	{
+		"name": "GivePal",
+		"cover_thumbnail": "placeholder.jpg",
+		"cover_image": "placeholder.jpg",
+		"cover_title": "GivePal",
+		"fancybox_class": "givepal",
+		"images": [
+				{
+					"image": "placeholder.jpg",
+					"thumbnail": "placeholder.jpg",
+					"title": "Title"
+				},
+				{
+					"image": "placeholder.jpg",
+					"thumbnail": "placeholder.jpg",
+					"title": "Title"
+				}
+			  ],
+		"url": "#",
+		"date": "2017",
+		"tags": ["Android","API"]
+	},
+	{
+		"name": "MyStore",
+		"cover_thumbnail": "placeholder.jpg",
+		"cover_image": "placeholder.jpg",
+		"cover_title": "MyStore",
+		"fancybox_class": "mystore",
+		"images": [
+				{
+					"image": "placeholder.jpg",
+					"thumbnail": "placeholder.jpg",
+					"title": "Title"
+				},
+				{
+					"image": "placeholder.jpg",
+					"thumbnail": "placeholder.jpg",
+					"title": "Title"
+				}
+			  ],
+		"url": "#",
+		"date": "2017",
+		"tags": ["Android","API","Node.js","Express.js","MongoDB","Swagger","AngularJS"]
+	},
+	{
+		"name": "Command Bubble",
+		"cover_thumbnail": "commandbubble/ic_playstore.png",
+		"cover_image": "commandbubble/ic_playstore.png",
+		"cover_title": "Command Bubble",
+		"fancybox_class": "command-bubble",
+		"images": [
+				{
+					"image": "placeholder.jpg",
+					"thumbnail": "placeholder.jpg",
+					"title": "Title"
+				},
+				{
+					"image": "placeholder.jpg",
+					"thumbnail": "placeholder.jpg",
+					"title": "Title"
+				}
+			  ],
+		"url": "https://play.google.com/store/apps/details?id=com.tinypoke.commandbubble",
+		"date": "2016",
+		"tags": ["Android","API"]
+	},
+	{
+		"name": "WorkFone",
+		"cover_thumbnail": "workfone/workfone_icon.png",
+		"cover_image": "workfone/workfone_icon.png",
+		"cover_title": "WorkFone",
+		"fancybox_class": "workfone",
+		"images": [
+				{
+					"image": "workfone/masthead-image.png",
+					"thumbnail": "workfone/masthead-image.png",
+					"title": "Masthead Image"
+				},
+				{
+					"image": "workfone/masthead-mobile.png",
+					"thumbnail": "workfone/masthead-mobile.png",
+					"title": "Masthead Mobile"
+				},
+				{
+					"image": "workfone/workfone-logo.png",
+					"thumbnail": "workfone/workfone-logo.png",
+					"title": "WorkFone Logo"
+				},
+				{
+					"image": "workfone/workfone_playstore_1.png",
+					"thumbnail": "workfone/workfone_playstore_1.png",
+					"title": "WorkFone Playstore 1"
+				},
+				{
+					"image": "workfone/workfone_playstore_2.png",
+					"thumbnail": "workfone/workfone_playstore_2.png",
+					"title": "WorkFone Playstore 2"
+				},
+				{
+					"image": "workfone/workfone_playstore_3.png",
+					"thumbnail": "workfone/workfone_playstore_3.png",
+					"title": "WorkFone Playstore 3"
+				},
+				{
+					"image": "workfone/workfone_playstore_4.png",
+					"thumbnail": "workfone/workfone_playstore_4.png",
+					"title": "WorkFone Playstore 4"
+				}
+			  ],
+		"url": "https://workfone.io",
+		"date": "2016",
+		"tags": ["Android","Javascript","API"]
+	},
+	{
+		"name": "Search Bubble",
+		"cover_thumbnail": "searchbubble/artwork.png",
+		"cover_image": "searchbubble/artwork.png",
+		"cover_title": "Search Bubble",
+		"fancybox_class": "search-bubble",
+		"images": [
+				{
+					"image": "searchbubble/banner.png",
+					"thumbnail": "searchbubble/banner.png",
+					"title": "Banner"
+				},
+				{
+					"image": "searchbubble/scf_1.png",
+					"thumbnail": "searchbubble/scf_1.png",
+					"title": "Screenshot 1"
+				},
+				{
+					"image": "searchbubble/scf_2.png",
+					"thumbnail": "searchbubble/scf_2.png",
+					"title": "Screenshot 2"
+				},
+				{
+					"image": "searchbubble/scf_3.png",
+					"thumbnail": "searchbubble/scf_3.png",
+					"title": "Screenshot 3"
+				},
+				{
+					"image": "searchbubble/scf_4.png",
+					"thumbnail": "searchbubble/scf_4.png",
+					"title": "Screenshot 4"
+				},
+				{
+					"image": "searchbubble/scf_5.png",
+					"thumbnail": "searchbubble/scf_5.png",
+					"title": "Screenshot 5"
+				},
+				{
+					"image": "searchbubble/scf_6.png",
+					"thumbnail": "searchbubble/scf_6.png",
+					"title": "Screenshot 6"
+				},
+				{
+					"image": "searchbubble/scf_7.png",
+					"thumbnail": "searchbubble/scf_7.png",
+					"title": "Screenshot 7"
+				}
+			  ],
+		"url": "http://searchbubble.co",
+		"source_url": "https://github.com/tunjos/SearchBubble",
+		"date": "Jul 2015",
+		"tags": ["Android"]
+	},
+	{
+		"name": "L'Oréal Professionnel Catalogo",
+		"cover_thumbnail": "loreal/loreal_icon.jpg",
+		"cover_image": "loreal/loreal_icon.jpg",
+		"cover_title": "L'Oréal Professionnel Catalogo",
+		"fancybox_class": "loreal-professionnel",
+		"images": [
+				{
+					"image": "loreal/loreal_playstore_1.jpg",
+					"thumbnail": "loreal/loreal_playstore_1.jpg",
+					"title": "Loreal Playstore 1"
+				},
+				{
+					"image": "loreal/loreal_playstore_2.jpg",
+					"thumbnail": "loreal/loreal_playstore_2.jpg",
+					"title": "Loreal Playstore 2"
+				},
+				{
+					"image": "loreal/loreal_playstore_3.jpg",
+					"thumbnail": "loreal/loreal_playstore_3.jpg",
+					"title": "Loreal Playstore 3"
+				},
+				{
+					"image": "loreal/NWS_1.png",
+					"thumbnail": "loreal/NWS_1.png",
+					"title": "News 1"
+				},
+				{
+					"image": "loreal/NWS_2.png",
+					"thumbnail": "loreal/NWS_2.png",
+					"title": "News 2"
+				},
+				{
+					"image": "loreal/NWS_3.png",
+					"thumbnail": "loreal/NWS_3.png",
+					"title": "News 3"
+				},
+				{
+					"image": "loreal/NWS_4.png",
+					"thumbnail": "loreal/NWS_4.png",
+					"title": "News 4"
+				},
+				{
+					"image": "loreal/proposta_1_slider.jpg",
+					"thumbnail": "loreal/proposta_1_slider.jpg",
+					"title": "Proposta Slider"
+				},
+				{
+					"image": "loreal/screenshot_customers.jpg",
+					"thumbnail": "loreal/screenshot_customers.jpg",
+					"title": "Screenshot Customers"
+				},
+				{
+					"image": "loreal/screenshot_login.jpg",
+					"thumbnail": "loreal/screenshot_login.jpg",
+					"title": "Screenshot Login"
+				},
+				{
+					"image": "loreal/screenshot_products.jpg",
+					"thumbnail": "loreal/screenshot_products.jpg",
+					"title": "Screenshot Products"
+				},
+				{
+					"image": "loreal/screenshot_registration.jpg",
+					"thumbnail": "loreal/screenshot_registration.jpg",
+					"title": "Screenshot Registration"
+				},
+				{
+					"image": "loreal/screenshot_update.jpg",
+					"thumbnail": "loreal/screenshot_update.jpg",
+					"title": "Screenshot Update"
+				},
+				{
+					"image": "loreal/screenshot_videos.jpg",
+					"thumbnail": "loreal/screenshot_videos.jpg",
+					"title": "Screenshot Videos"
+				}
+			  ],
+		"url": "https://play.google.com/store/apps/details?id=it.echocreative.lppc",
+		"date": "Mar 2015",
+		"tags": ["Android","API"]
+	},
+	{
+		"name": "Sutter Professional Italia",
+		"cover_thumbnail": "sutterprofessionalitalia/sutter_icon.jpg",
+		"cover_image": "sutterprofessionalitalia/sutter_icon.jpg",
+		"cover_title": "Sutter Professional Italia",
+		"fancybox_class": "sutter-professional",
+		"images": [
+				{
+					"image": "sutterprofessionalitalia/products.png",
+					"thumbnail": "sutterprofessionalitalia/products.png",
+					"title": "Products"
+				},
+				{
+					"image": "sutterprofessionalitalia/screenshot_catalogue.jpg",
+					"thumbnail": "sutterprofessionalitalia/screenshot_catalogue.jpg",
+					"title": "Screenshot Catalogue"
+				},
+				{
+					"image": "sutterprofessionalitalia/screenshot_customers.jpg",
+					"thumbnail": "sutterprofessionalitalia/screenshot_customers.jpg",
+					"title": "Screenshot Customers"
+				},
+				{
+					"image": "sutterprofessionalitalia/screenshot_home.jpg",
+					"thumbnail": "sutterprofessionalitalia/screenshot_home.jpg",
+					"title": "Screenshot Home"
+				},
+				{
+					"image": "sutterprofessionalitalia/screenshot_login.jpg",
+					"thumbnail": "sutterprofessionalitalia/screenshot_login.jpg",
+					"title": "Screenshot Login"
+				},
+				{
+					"image": "sutterprofessionalitalia/screenshot_product.jpg",
+					"thumbnail": "sutterprofessionalitalia/screenshot_product.jpg",
+					"title": "Screenshot Product"
+				},
+				{
+					"image": "sutterprofessionalitalia/screenshot_products.jpg",
+					"thumbnail": "sutterprofessionalitalia/screenshot_products.jpg",
+					"title": "Screenshot Products"
+				},
+				{
+					"image": "sutterprofessionalitalia/screenshot_registration.jpg",
+					"thumbnail": "sutterprofessionalitalia/screenshot_registration.jpg",
+					"title": "Screenshot Registration"
+				},
+				{
+					"image": "sutterprofessionalitalia/screenshot_sutter.jpg",
+					"thumbnail": "sutterprofessionalitalia/screenshot_sutter.jpg",
+					"title": "Screenshot Sutter"
+				},
+				{
+					"image": "sutterprofessionalitalia/screenshot_update.jpg",
+					"thumbnail": "sutterprofessionalitalia/screenshot_update.jpg",
+					"title": "Screenshot Update"
+				},
+				{
+					"image": "sutterprofessionalitalia/screenshot_video.jpg",
+					"thumbnail": "sutterprofessionalitalia/screenshot_video.jpg",
+					"title": "Screenshot Video"
+				},
+				{
+					"image": "sutterprofessionalitalia/screenshot_videos.jpg",
+					"thumbnail": "sutterprofessionalitalia/screenshot_videos.jpg",
+					"title": "Screenshot Videos"
+				},
+				{
+					"image": "sutterprofessionalitalia/sutter_english_playstore_1.jpg",
+					"thumbnail": "sutterprofessionalitalia/sutter_english_playstore_1.jpg",
+					"title": "Screenshot English Playstore 1"
+				},
+				{
+					"image": "sutterprofessionalitalia/sutter_playstore_1.jpg",
+					"thumbnail": "sutterprofessionalitalia/sutter_playstore_1.jpg",
+					"title": "Screenshot Playstore 1"
+				},
+				{
+					"image": "sutterprofessionalitalia/sutter_playstore_2.jpg",
+					"thumbnail": "sutterprofessionalitalia/sutter_playstore_2.jpg",
+					"title": "Screenshot Playstore 2"
+				},
+				{
+					"image": "sutterprofessionalitalia/SutterSplash.png",
+					"thumbnail": "sutterprofessionalitalia/SutterSplash.png",
+					"title": "Screenshot Splash"
+				}
+			  ],
+		"url": "https://play.google.com/store/apps/details?id=it.echocreative.sutter",
+		"date": "May 2015",
+		"tags": ["Android","API"]
+	},
+	{
+		"name": "Sutter Professional Espana",
+		"cover_thumbnail": "sutterprofessionalespana/sutter_icon.jpg",
+		"cover_image": "sutterprofessionalespana/sutter_icon.jpg",
+		"cover_title": "Sutter Professional Espana",
+		"fancybox_class": "sutter-professional-espana",
+		"images": [
+				{
+					"image": "sutterprofessionalespana/sutter_espanyol_playstore_1.jpg",
+					"thumbnail": "sutterprofessionalespana/sutter_espanyol_playstore_1.jpg",
+					"title": "Sutter Espanyol Playstore 1"
+				},
+				{
+					"image": "sutterprofessionalespana/sutter_espanyol_playstore_2.jpg",
+					"thumbnail": "sutterprofessionalespana/sutter_espanyol_playstore_2.jpg",
+					"title": "Sutter Espanyol Playstore 2"
+				},
+				{
+					"image": "sutterprofessionalespana/sutter_english_playstore_1.jpg",
+					"thumbnail": "sutterprofessionalespana/sutter_english_playstore_1.jpg",
+					"title": "Sutter English Playstore 1"
+				}
+			  ],
+		"url": "https://play.google.com/store/apps/details?id=it.echocreative.sutter.es",
+		"date": "Sept 2015",
+		"tags": ["Android","API"]
+	},
+	{
+		"name": "Paint Together",
+		"cover_thumbnail": "painttogether/PaintTogether.png",
+		"cover_image": "painttogether/PaintTogether.png",
+		"cover_title": "Paint Together",
+		"fancybox_class": "paint-together",
+		"images": [
+				{
+					"image": "painttogether/cv_chat.png",
+					"thumbnail": "painttogether/cv_chat.png",
+					"title": "Chat"
+				},
+				{
+					"image": "painttogether/1024x500.jpg",
+					"thumbnail": "painttogether/1024x500.jpg",
+					"title": "Cover"
+				},
+				{
+					"image": "painttogether/cv_female.png",
+					"thumbnail": "painttogether/cv_female.png",
+					"title": "Female"
+				},
+				{
+					"image": "painttogether/cv_friends.png",
+					"thumbnail": "painttogether/cv_friends.png",
+					"title": "Friends"
+				},
+				{
+					"image": "painttogether/cv_login.png",
+					"thumbnail": "painttogether/cv_login.png",
+					"title": "Login"
+				},
+				{
+					"image": "painttogether/cv_love.png",
+					"thumbnail": "painttogether/cv_love.png",
+					"title": "Love"
+				},
+				{
+					"image": "painttogether/cv_main.png",
+					"thumbnail": "painttogether/cv_main.png",
+					"title": "Main"
+				},
+				{
+					"image": "painttogether/cv_male.png",
+					"thumbnail": "painttogether/cv_male.png",
+					"title": "Title"
+				},
+				{
+					"image": "painttogether/cv_nav_drawer.png",
+					"thumbnail": "painttogether/cv_nav_drawer.png",
+					"title": "Male"
+				},
+				{
+					"image": "painttogether/cv_registration.png",
+					"thumbnail": "painttogether/cv_registration.png",
+					"title": "Registration"
+				},
+				{
+					"image": "painttogether/cv_xo.png",
+					"thumbnail": "painttogether/cv_xo.png",
+					"title": "XO"
+				},
+				{
+					"image": "painttogether/Screenshots.png",
+					"thumbnail": "painttogether/Screenshots.png",
+					"title": "Screenshots"
+				}
+			  ],
+		"url": "https://play.google.com/store/apps/details?id=com.tinypoke.templates.painttogether",
+		"date": "Feb 2015",
+		"tags": ["Android","API"]
+	},
+	{
+		"name": "Evapp",
+		"cover_thumbnail": "evapp/app-icon.png",
+		"cover_image": "evapp/app-icon.png",
+		"cover_title": "Evapp",
+		"fancybox_class": "evapp",
+		"images": [
+				{
+					"image": "evapp/Detail.png",
+					"thumbnail": "evapp/Detail.png",
+					"title": "Detail"
+				},
+				{
+					"image": "evapp/Login.png",
+					"thumbnail": "evapp/Login.png",
+					"title": "Login"
+				},
+				{
+					"image": "evapp/Notification.png",
+					"thumbnail": "evapp/Notification.png",
+					"title": "Notification"
+				},
+				{
+					"image": "evapp/Past.png",
+					"thumbnail": "evapp/Past.png",
+					"title": "Past"
+				},
+				{
+					"image": "evapp/Poll-dialog.png",
+					"thumbnail": "evapp/Poll-dialog.png",
+					"title": "Poll dialog"
+				},
+				{
+					"image": "evapp/Poll-dialog-tnx.png",
+					"thumbnail": "evapp/Poll-dialog-tnx.png",
+					"title": "Poll dialog thanks"
+				},
+				{
+					"image": "evapp/Settings.png",
+					"thumbnail": "evapp/Settings.png",
+					"title": "Settings"
+				},
+				{
+					"image": "evapp/Signup.png",
+					"thumbnail": "evapp/Signup.png",
+					"title": "Signup"
+				},
+				{
+					"image": "evapp/Stats-checkins.png",
+					"thumbnail": "evapp/Stats-checkins.png",
+					"title": "Stats: Checkins"
+				},
+				{
+					"image": "evapp/Stats-detail.png",
+					"thumbnail": "evapp/Stats-detail.png",
+					"title": "Stats: Detail"
+				},
+				{
+					"image": "evapp/Stats-rating.png",
+					"thumbnail": "evapp/Stats-rating.png",
+					"title": "Stats: Rating"
+				},
+				{
+					"image": "evapp/Stats-time.png",
+					"thumbnail": "evapp/Stats-time.png",
+					"title": "Stats: Time"
+				},
+				{
+					"image": "evapp/storyboard-01.png",
+					"thumbnail": "evapp/storyboard-01.png",
+					"title": "Storyboard 1"
+				},
+				{
+					"image": "evapp/storyboard-02.png",
+					"thumbnail": "evapp/storyboard-02.png",
+					"title": "Storyboard 2"
+				},
+				{
+					"image": "evapp/storyboard-03.png",
+					"thumbnail": "evapp/storyboard-03.png",
+					"title": "Storyboard 3"
+				},
+				{
+					"image": "evapp/Today.png",
+					"thumbnail": "evapp/Today.png",
+					"title": "Today"
+				},
+				{
+					"image": "evapp/Web-dashboard.png",
+					"thumbnail": "evapp/Web-dashboard.png",
+					"title": "Web dashboard"
+				}
+			  ],
+		"url": "https://www.behance.net/gallery/27912265/Evapp-Event-App",
+		"date": "Jun 2014",
+		"tags": ["Android","Beacons","API"]
+	},
+	{
+		"name": "EMUPlaces",
+		"cover_thumbnail": "emuplaces/ic_launcher-web.png",
+		"cover_image": "emuplaces/ic_launcher-web.png",
+		"cover_title": "EMUPlaces",
+		"fancybox_class": "emuplaces",
+		"images": [
+				{
+					"image": "emuplaces/EMUPlaces.png",
+					"thumbnail": "emuplaces/EMUPlaces.png",
+					"title": "EMUPlaces"
+				},
+				{
+					"image": "emuplaces/kampus2012.jpg",
+					"thumbnail": "emuplaces/kampus2012.jpg",
+					"title": "kampus 2012"
+				},
+				{
+					"image": "emuplaces/main_en.png",
+					"thumbnail": "emuplaces/main_en.png",
+					"title": "Main"
+				},
+				{
+					"image": "emuplaces/phones_en.png",
+					"thumbnail": "emuplaces/phones_en.png",
+					"title": "Phones"
+				},
+				{
+					"image": "emuplaces/screenshot.png",
+					"thumbnail": "emuplaces/screenshot.png",
+					"title": "Screenshot"
+				},
+				{
+					"image": "emuplaces/screenshot_1.png",
+					"thumbnail": "emuplaces/screenshot_1.png",
+					"title": "Screenshot 1"
+				},
+				{
+					"image": "emuplaces/screenshot_2.png",
+					"thumbnail": "emuplaces/screenshot_2.png",
+					"title": "Screenshot 2"
+				},
+				{
+					"image": "emuplaces/screenshot_3.png",
+					"thumbnail": "emuplaces/screenshot_3.png",
+					"title": "Screenshot 4"
+				},
+				{
+					"image": "emuplaces/screenshot_4.png",
+					"thumbnail": "emuplaces/screenshot_4.png",
+					"title": "Screenshot 4"
+				},
+				{
+					"image": "emuplaces/screenshot_5.png",
+					"thumbnail": "emuplaces/screenshot_5.png",
+					"title": "Screenshot 5"
+				},
+				{
+					"image": "emuplaces/screenshot_6.png",
+					"thumbnail": "emuplaces/screenshot_6.png",
+					"title": "Screenshot 6"
+				},
+				{
+					"image": "emuplaces/screenshot_7.png",
+					"thumbnail": "emuplaces/screenshot_7.png",
+					"title": "Screenshot 7"
+				},
+				{
+					"image": "emuplaces/screenshot_8.png",
+					"thumbnail": "emuplaces/screenshot_8.png",
+					"title": "Screenshot 8"
+				},
+				{
+					"image": "emuplaces/screenshots.png",
+					"thumbnail": "emuplaces/screenshots.png",
+					"title": "Screenshots"
+				},
+				{
+					"image": "emuplaces/splash.jpg",
+					"thumbnail": "emuplaces/splash.jpg",
+					"title": "Splash"
+				},
+				{
+					"image": "emuplaces/Timeline_Cover.png",
+					"thumbnail": "emuplaces/Timeline_Cover.png",
+					"title": "Timeline Cover"
+				}
+			  ],
+		"url":"http://www.emu.edu.tr/android/emuplaces/",
+		"date": "2012",
+		"tags": ["Android","API"]
+	}
+]
