@@ -23,6 +23,12 @@ urls:
     - text: Clean Architecture
       url: /clean-architecture/
       icon: fa-circle
+    - text: Machine Learning
+      url: /machine-learning/
+      icon: fa-spinner
+    - text: Artrificial Intelligence
+      url: /artificial-intelligence/
+      icon: fa-gear
     - text: GIT
       url: /git
       icon: fa-git
@@ -35,6 +41,12 @@ urls:
     - text: Kotlin
       url: /kotlin/
       icon: fa-question
+    - text: Vue.js
+      url: /vue/
+      icon: fa-caret-down
+    - text: Python
+      url: /python/
+      icon: fa-indent
     - text: Crypto
       url: /crypto/
       icon: fa-lock
