@@ -32,6 +32,9 @@ urls:
     - text: Security
       url: /security/
       icon: fa-lock
+    - text: Cryptography
+      url: /cryptography/
+      icon: eye-slash
     - text: GIT
       url: /git
       icon: fa-git
@@ -50,9 +53,6 @@ urls:
     - text: Python
       url: /python/
       icon: fa-indent
-    - text: Crypto
-      url: /crypto/
-      icon: fa-lock
     - text: Github
       url: https://github.com/tunjos
       icon: fa-github
