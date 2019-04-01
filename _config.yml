@@ -29,6 +29,9 @@ urls:
     - text: Artrificial Intelligence
       url: /artificial-intelligence/
       icon: fa-gear
+    - text: Security
+      url: /security/
+      icon: fa-lock
     - text: GIT
       url: /git
       icon: fa-git
