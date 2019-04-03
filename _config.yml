@@ -34,7 +34,7 @@ urls:
       icon: fa-lock
     - text: Cryptography
       url: /cryptography/
-      icon: eye-slash
+      icon: fa-eye-slash
     - text: GIT
       url: /git
       icon: fa-git
