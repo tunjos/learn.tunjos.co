@@ -47,6 +47,12 @@ urls:
     - text: Kotlin
       url: /kotlin/
       icon: fa-question
+    - text: MongoDB
+      url: /mongodb/
+      icon: fa-envira
+    - text: MySQL
+      url: /mysql/
+      icon: fa-fish
     - text: Vue.js
       url: /vue/
       icon: fa-caret-down
