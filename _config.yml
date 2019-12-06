@@ -50,6 +50,9 @@ urls:
     - text: MongoDB
       url: /mongodb/
       icon: fa-envira
+    - text: PHP
+      url: /php/
+      icon: fa-elephant
     - text: MySQL
       url: /mysql/
       icon: fa-fish
