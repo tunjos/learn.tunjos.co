@@ -26,7 +26,7 @@ urls:
     - text: Machine Learning
       url: /machine-learning/
       icon: fa-spinner
-    - text: Artrificial Intelligence
+    - text: Artificial Intelligence
       url: /artificial-intelligence/
       icon: fa-gear
     - text: Security
