@@ -94,7 +94,7 @@ enableTags: true
 tagarray: []
 
 #url: "http://localhost:4000"
-url: "https://tunjos.co"
+url: "https://learn.tunjos.co"
 baseurl: ""
 paginate: 5
 per_page: 5
